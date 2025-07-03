@@ -18,7 +18,7 @@ Virtual Replication (VR) systems provide fault tolerance by maintaining data cop
   Designed and optimized Serializable Read methodology targetting high number of query processing per second.
 * **Performance Comparison** \
   Conducted bench marking between Linearizable Read qps and Serializable Read qps.
-* **Reserach Leadership**
+* **Reserach Leadership** \
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
