@@ -1,7 +1,5 @@
 # recoverytime
-A procedure that allows for restart of a failed system in a way that either eliminates or minimizes the amount of incorrect system results. 
-# queries
-**It's a metric used to measure the number of requests a system receives and processes per second.**
+Recovery time is the duration it takes to return to a normal or baseline state after a disturbance, event, or process. 
 
 **REDUCING LEADER RECOVERY TIME IN DISTRIBUTED ARCHITECTURES USING ZOOKEEPER ATOMIC BROADCAST**
 * Author: 
