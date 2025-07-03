@@ -15,9 +15,9 @@ Virtual Replication (VR) systems provide fault tolerance by maintaining data cop
  
 **Key Contributions:** 
 * **Algorithm Development** \
-  Designed and optimized Serializable Read methodology targetting high number of query processing per second.
+  Designed and optimized leader failure recovery time using zookeeper atomic broadcast.
 * **Performance Comparison** \
-  Conducted bench marking between Linearizable Read qps and Serializable Read qps.
+  Conducted bench marking between VR Leader Failure Recovery Time and ZAB Leader Failure Recovery Time.
 * **Reserach Leadership** \
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
