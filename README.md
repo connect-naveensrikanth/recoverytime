@@ -23,7 +23,7 @@ Virtual Replication (VR) systems provide fault tolerance by maintaining data cop
 
 **Relevance & Real-World Impact**
 * **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by improving the number of queries to process per second.
+    Enhances distributed architectures performance by reducing the lead failure recovery time.
 * **Query Processing Improvement:** \
     need to add here
 * **Academic Recognition :** \
