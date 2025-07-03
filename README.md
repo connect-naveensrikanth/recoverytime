@@ -1,6 +1,6 @@
 # recoverytime
 Recovery time is the duration it takes to return to a normal or baseline state after a disturbance, event, or process. 
-***
+
 **REDUCING LEADER RECOVERY TIME IN DISTRIBUTED ARCHITECTURES USING ZOOKEEPER ATOMIC BROADCAST**
 ***
 * Author: 
