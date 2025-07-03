@@ -34,16 +34,16 @@ Virtual Replication (VR) systems provide fault tolerance by maintaining data cop
 **Experimental Results (Summary)**
 
 
-| Cluster Size (Nodes) | Linearizable Read QPS | Serializable Read QPS | Improvement (%) |
-| ---------------------| --------------------- | --------------------- | ----------------|
-| 3                    | 1200                  | 1350                  | 12.5            |
-| 5                    | 1050                  | 1250                  | 19.0            |
-| 7                    | 900                   | 1100                  | 22.2            |
-| 9                    | 800                   | 1050                  | 31.3            |
-| 11                   | 700                   |  950                  | 35.7            |
+| Cluster Size (Nodes) | VR Leader Failure Recovery Time (ms) | ZAB Leader Failure Recovery Time (ms) | Improvement (%) |
+| ---------------------| ------------------------------------ | ------------------------------------- | ----------------|
+| 3                    | 550                                  | 280                                   | 49.1            |
+| 5                    | 950                                  | 450                                   | 52.6            |
+| 7                    | 1100                                 | 670                                   | 39.1            |
+| 9                    | 1300                                 | 850                                   | 34.6            |
+| 11                   | 1700                                 | 1100                                  | 35.3            |
 
 **Citation**
-* **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED KEY-VALUE STORES USING SERIALIZABLE CONSISTENCY**
+* **OPTIMIZING LEAD RECOVERY TIME IN DISTRIBUTED ARCHITECTURES**
 *   Naveen Srikanth Pasupuleti
 *   International Journal of
 *   E-ISSN- 
