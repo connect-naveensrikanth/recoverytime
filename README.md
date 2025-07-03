@@ -30,7 +30,7 @@ ETCD is a distributed key-value store that ensures high availability and strong 
     need to add here
 * **Educational Impact:** \
     need to add here
-
+***
 **Experimental Results (Summary)**
 
 
