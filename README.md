@@ -3,7 +3,7 @@ A procedure that allows for restart of a failed system in a way that either elim
 # queries
 **It's a metric used to measure the number of requests a system receives and processes per second.**
 
-**OPTIMIZING READ PERFORMANCE IN DISTRIBUTED KEY-VALUE STORES USING SERIALIZABLE CONSISTENCY**
+**REDUCING LEADER RECOVERY TIME IN DISTRIBUTED ARCHITECTURES USING ZOOKEEPER ATOMIC BROADCAST**
 * Author: 
 * Published In : 
 * Publication Date:
