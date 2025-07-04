@@ -3,12 +3,12 @@ Recovery time is the duration it takes to return to a normal or baseline state a
 
 **REDUCING LEADER RECOVERY TIME IN DISTRIBUTED ARCHITECTURES USING ZOOKEEPER ATOMIC BROADCAST**
 ***
-* Author: 
-* Published In : 
-* Publication Date:
-* E-ISSN:
-* Impact Factor:
-* Link:
+* Author: Naveen Srikanth Pasupuleti
+* Published In : International Journal for Multidisciplinary Research (IJFMR)
+* Publication Date: 08-2023
+* E-ISSN: 2582-2160
+* Impact Factor: 9.24
+* Link: https://www.ijfmr.com/research-paper.php?id=46802
 ***
 **Abstract**:\
 Virtual Replication (VR) systems provide fault tolerance by maintaining data copies across multiple nodes and electing a new leader upon failure. However, leader failure recovery time increases significantly with cluster size due to communication overhead and synchronization delays. The complex leader election process and state validation among replicas contribute to extended downtime, especially under heavy load. This paper proposes using Zookeeper Atomic Broadcast (ZAB) to optimize leader failure recovery, reducing coordination delays and improving system availability. The approach aims to enhance recovery efficiency in large-scale distributed VR systems.
@@ -18,7 +18,7 @@ Virtual Replication (VR) systems provide fault tolerance by maintaining data cop
   Designed and optimized leader failure recovery time using zookeeper atomic broadcast.
 * **Performance Comparison** \
   Conducted bench marking between VR Leader Failure Recovery Time and ZAB Leader Failure Recovery Time.
-* **Reserach Leadership** \
+* **Research Leadership** \
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
@@ -45,16 +45,16 @@ Virtual Replication (VR) systems provide fault tolerance by maintaining data cop
 **Citation**
 * **OPTIMIZING LEAD RECOVERY TIME IN DISTRIBUTED ARCHITECTURES**
 *   Naveen Srikanth Pasupuleti
-*   International Journal of
-*   E-ISSN- 
+*   International Journal for Multidisciplinary Research
+*   E-ISSN-2582-2160
 
 **License**
-* This reserach is shared for a academic and reserach purposes. For commercial use, please contact the author.
+* This research is shared for a academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* IJFMR Site please 
+* IJFMR Site: https://www.ijfmr.com/
 
 **Author Contact** 
-  * LinkedIn| Email:
-***
+  * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
+  * Email: connect.naveensrikanth@gmail.com
 
