@@ -52,7 +52,7 @@ Virtual Replication (VR) systems provide fault tolerance by maintaining data cop
 * This research is shared for a academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* IJFMR Site: https://www.ijfmr.com/
+* https://www.ijfmr.com/
 
 **Author Contact** 
   * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
