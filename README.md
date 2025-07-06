@@ -9,7 +9,7 @@
 **Abstract**:\
 Virtual Replication (VR) systems provide fault tolerance by maintaining data copies across multiple nodes and electing a new leader upon failure. However, leader failure recovery time increases significantly with cluster size due to communication overhead and synchronization delays. The complex leader election process and state validation among replicas contribute to extended downtime, especially under heavy load. This paper proposes using Zookeeper Atomic Broadcast (ZAB) to optimize leader failure recovery, reducing coordination delays and improving system availability. The approach aims to enhance recovery efficiency in large-scale distributed VR systems.
 
-** Recovery Time:**
+**Recovery Time:**
 Recovery time is the duration it takes to return to a normal or baseline state after a disturbance, event, or process.
  
 **Key Contributions:** 
