@@ -58,6 +58,5 @@ Serves as a key reference in advanced distributed systems coursework, promoting 
 * [IJFMR Website](https://www.ijfmr.com/)
 
 **Author Contact** 
-  * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
-  * Email: connect.naveensrikanth@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/naveensrikanth/ | Email: connect.naveensrikanth@gmail.com
 
