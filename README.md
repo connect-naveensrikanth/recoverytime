@@ -32,7 +32,7 @@ Widely referenced in academic discussions and technical explorations addressing 
 
 * **Educational relevance:**\
 Serves as a key reference in advanced distributed systems coursework, promoting critical understanding of consensus mechanisms, failure handling, and availability in high-scale computing environments.
-.
+
 ***
 **Experimental Results (Summary)**
 
