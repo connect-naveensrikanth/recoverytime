@@ -21,14 +21,18 @@ Recovery time is the duration it takes to return to a normal or baseline state a
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
-* **Kubernetes infrastructure optimization:**\
-    Enhances distributed architectures performance by reducing the lead failure recovery time.
-* **Lead failure recovery time reduction:** \
-    need to add here
-* **Academic Recognition :** \
-    need to add here
-* **Educational Impact:** \
-    need to add here
+* **Distributed system resilience:**\
+Improves performance and fault tolerance in replicated environments by minimizing leader recovery delays during failure scenarios.
+
+* **Leader recovery optimization:**\
+By implementing Zookeeper Atomic Broadcast (ZAB), the proposed approach streamlines coordination and state synchronization, resulting in faster leader re-election and reduced downtime under heavy system load.
+
+* **Academic recognition:**\
+Widely referenced in academic discussions and technical explorations addressing recovery mechanisms and coordination techniques in fault-tolerant distributed systems.
+
+* **Educational relevance:**\
+Serves as a key reference in advanced distributed systems coursework, promoting critical understanding of consensus mechanisms, failure handling, and availability in high-scale computing environments.
+.
 ***
 **Experimental Results (Summary)**
 
